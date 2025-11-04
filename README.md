@@ -1,5 +1,5 @@
 # ZOO online
-**ZOO online** to prosta strona interetowa prezentująca wirtualne zoo.
+**ZOO online** to prosta strona interetowa prezentująca wirtualne zoo, dostępna na [GitHub Pages](https://github.com/serhiiwwdq12/Shop-online.git)
 
 ## Spis treści
 - [Opis projektu](#opis-projektu)
